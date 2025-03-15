@@ -28,3 +28,6 @@ frontend/.parcel-cache/
 
 # Ignore OS-specific files
 Thumbs.db
+
+# Ignore Node.js dependencies
+node_modules/
