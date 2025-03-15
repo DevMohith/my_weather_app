@@ -1,0 +1,30 @@
+# Ignore Node.js dependencies
+node_modules/
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+package-lock.json
+
+# Ignore environment variables
+.env
+
+# Ignore logs
+logs
+*.log
+debug.log
+
+# Ignore Python virtual environment (for Flask)
+backend/venv/
+__pycache__/
+*.pyc
+
+# Ignore build files
+frontend/build/
+frontend/.parcel-cache/
+
+# Ignore VS Code settings
+.vscode/
+.DS_Store
+
+# Ignore OS-specific files
+Thumbs.db
