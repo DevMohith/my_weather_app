@@ -3,7 +3,7 @@ import Home from "./pages/Home";
 import About from "./pages/About";
 import Contact from "./pages/Contact";
 import NotFound from "./pages/NotFound";
-import 
+import React  from "react"; /// remove this import
 
 function App() {
   return (
